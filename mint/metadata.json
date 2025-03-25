@@ -1,0 +1,6 @@
+{
+  "name": "Maximized Staked SOL",
+  "symbol": "maxSOL",
+  "description": "LP token that auto-optimizes staking yield by rebalancing across top LSTs on Solana.",
+  "image": "https://raw.githubusercontent.com/moose-labs/maxsol-metadata/master/icon/maxsol.png"
+}
